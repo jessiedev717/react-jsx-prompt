@@ -1,6 +1,6 @@
 {
   "name": "react-jsx-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Use jsx to generate structured prompts",
   "source": "src/index.ts",
@@ -22,6 +22,8 @@
     "workflow",
     "jsx"
   ],
+  "homepage": "https://github.com/jessiedev717/react-jsx-prompt#readme",
+  "repository": "github:jessiedev717/react-jsx-prompt",
   "author": "Jessie",
   "license": "MIT",
   "packageManager": "pnpm@9.15.3",
